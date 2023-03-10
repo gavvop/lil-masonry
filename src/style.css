@@ -1,0 +1,20 @@
+body {
+    padding: 10px;
+}
+
+.generator-container {
+    margin-bottom: 20px;
+}
+
+.masonry {
+    columns: 400px;
+    column-gap: 20px;
+}
+
+.masonry-item {
+    break-inside: avoid-column;
+    margin-bottom: 1rem;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 10px;
+}

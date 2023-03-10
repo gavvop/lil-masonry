@@ -1,2 +1,2 @@
 # lil-masonry
-Extremely simple POC masonry in Vanilla CSS
+Extremely simple (but responsive!) POC masonry in Vanilla CSS
